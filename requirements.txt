@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+pillow
+matplotlib  # If you want to plot anything
+opencv-python  # If you want OpenCV support for image processing
+scikit-learn  # If you plan to do any preprocessing with sklearn

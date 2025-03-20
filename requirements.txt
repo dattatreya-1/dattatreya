@@ -1,7 +1,7 @@
 streamlit
-tensorflow
+tensorflow==2.10.0  # Compatible with Python 3.10 and below
 numpy
 pillow
-matplotlib  # If you want to plot anything
-opencv-python  # If you want OpenCV support for image processing
-scikit-learn  # If you plan to do any preprocessing with sklearn
+matplotlib
+opencv-python
+scikit-learn

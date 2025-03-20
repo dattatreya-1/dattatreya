@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.10.0  # Compatible with Python 3.10 and below
+tensorflow==2.16.0  # Compatible with Python 3.10 and below
 numpy
 pillow
 matplotlib
